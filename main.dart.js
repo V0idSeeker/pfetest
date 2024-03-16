@@ -68758,7 +68758,7 @@ A.d5(3,"retries")
 s=t.N
 o=new A.Zi(o,A.z(s,s))
 s=$.anp()
-o=new A.xv("http://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",o,s,r)
+o=new A.xv("https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",o,s,r)
 o.dx=B.FX
 o.x=1/0
 o.z=!1?18:19
